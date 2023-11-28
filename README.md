@@ -1,5 +1,5 @@
-# raice_backend
-clone the repo and extract it
-RUN npm install IN TERMINAL
-ADD DATABSE CONNECTION STRING AND PORT NUMBER IN index.js FILE
+# raice_backend </br> </br>
+clone the repo and extract it </br>
+RUN npm install IN TERMINAL</br>
+ADD DATABSE CONNECTION STRING AND PORT NUMBER IN index.js FILE</br>
 RUN nodemon index.js
